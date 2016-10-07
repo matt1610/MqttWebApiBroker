@@ -1,0 +1,8 @@
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\bin\Debug\GnatMQ.Net.dll
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\bin\Debug\GnatMQ.Net.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojResolveAssemblyReference.cache
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
